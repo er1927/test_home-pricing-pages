@@ -109,8 +109,7 @@ p {
   - Install vue/cli
   - Create project
 - Install Bootstrap Vue
-
-- Create components
+- Create components (home + 1)
 - Develop application
 - Customize Bootstrap-Vue and Bootstrap by modifying the project's configuration and CSS
 - Deploy
@@ -119,13 +118,6 @@ p {
 
 
 <!-- NEXT STEPS 
-
-Create Components:
-
-Create Vue components and use Bootstrap-Vue components in them. You can create components by running:
--  code
-vue generate component ComponentName
-Develop:
 
 Start developing your Vue.js application by writing code in your components and views. You can find a list of available Bootstrap-Vue components in the documentation: https://bootstrap-vue.org/docs/components
 Run Your Project:
